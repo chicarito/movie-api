@@ -1,7 +1,6 @@
 test 
 1. lorem
-2. lorem
-3. lorem
+2. hapus lorem 3 dan 2
 
 commit 2
 1. lorem
