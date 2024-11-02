@@ -6,6 +6,8 @@ commit 2
 1. lorem
 2. lorem
 3. lorem
-editor 2 
-ngedit asal sadbfihdgsbfd;jsa
-commit lagi
+
+editor 1
+menambahkan baris baru di branch coba lagi
+commit ke dua di file first branch coba-lagi
+
