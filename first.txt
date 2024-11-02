@@ -8,3 +8,4 @@ commit 2
 3. lorem
 editor 1
 menambahkan baris baru di branch coba lagi
+commit ke dua di file first branch coba-lagi
