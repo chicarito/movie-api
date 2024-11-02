@@ -6,3 +6,5 @@ commit 2
 1. lorem
 2. lorem
 3. lorem
+editor 2 
+ngedit asal sadbfihdgsbfd;jsa
